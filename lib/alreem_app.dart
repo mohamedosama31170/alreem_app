@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'app_constants.dart';
 import 'splash_screen.dart';
 
-class Itba3lyApp extends StatelessWidget {
-  const Itba3lyApp({super.key});
+class AlreemApp extends StatelessWidget {
+  const AlreemApp({super.key});
 
   @override
   Widget build(BuildContext context) {
